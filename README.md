@@ -19,7 +19,7 @@
 Υπάρχουν δύο τρόποι εγκατάστασης της εφαρμογής: Α) executable και Β) αρχεία κώδικα Python
 
 ### A) executable (προς το παρόν μη διαθέσιμο μέσω github λόγω περιορισμών μεγέθους αρχείου)
-1. Λήψη αρχείου customcovidV2.zip (προσορινή λύση: [customcovidV2.zip](https://drive.google.com/file/d/1BY2fnam-CRK8390DtQjyOmQPwtAwEBhR/view?usp=sharing))
+1. Λήψη αρχείου customcovidV2.zip (προσωρινή λύση: [customcovidV2.zip](https://drive.google.com/file/d/1BY2fnam-CRK8390DtQjyOmQPwtAwEBhR/view?usp=sharing))
 2. Εξαγωγή αρχείου
 3. Άνοιγμα αρχείου customcovidV2.exe
 
