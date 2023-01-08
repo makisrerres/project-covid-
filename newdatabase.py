@@ -39,7 +39,7 @@ def database():
     print(dfcases, dfdeaths, dfvaccine, sep='\n')
     print("\nComplete")
 
-    connection = sqlite3.connect('C:\\Users\\strat\\OneDrive\\Υπολογιστής\\Project Covid\\covid19.db')
+    connection = sqlite3.connect('covid19.db')
     #Μετατροπή απο dataframe σε sqlite3 dtabase
     print("\nConverting Dataframe to SQLite3 database...")
     #Πρώτος πίνακας(cases)

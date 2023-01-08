@@ -3,7 +3,7 @@ from datetime import date, timedelta
 import os
 
 def connect():
-    return sqlite3.connect('C:\\Users\\strat\\OneDrive\\Υπολογιστής\\Project Covid\\covid19.db')    #connect to database
+    return sqlite3.connect('covid19.db')    #connect to database
 
 
 def get_countries(n):                       #get countries
